@@ -1,2 +1,2 @@
 # Final-Year-Project
-B.E. Final year project : Physiological Data Acquisition System
+B.E(CSE) Final year project : Physiological Data Acquisition System
